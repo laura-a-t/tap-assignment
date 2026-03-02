@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.git/
+.idea/
+.vscode/
+TapAssignment.Tests/
+chat-conversation-clean.jsonl
+chat-conversation-clean.txt
+chat-conversation-extract.jsonl
+chat-conversation-extract.txt

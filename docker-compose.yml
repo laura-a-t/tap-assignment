@@ -1,0 +1,8 @@
+services:
+  tap-assignment-cli:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: tap-assignment-cli:local
+    stdin_open: true
+    tty: true
